@@ -1,4 +1,4 @@
-PEditor - a simple Python editor based on wxPython
+#PEditor - a simple Python editor based on wxPython#
 
 PEditor is developed on Mac OS X 10.7 Lion and can work on Mac OS X, Windows and Linux(need GTK support).
 
